@@ -1,6 +1,6 @@
 # wp-cli-mu-disable-nodomain-sites
 
-WP-CLI command to delete sites with no associated domain
+WP-CLI command to disable sites with no associated domain
 
 ## Installation
 wp package install mirai-wordpress/wp-cli-mu-disable-nodomain-sites
