@@ -14,7 +14,7 @@ wp nodomain_sites list [--months=n]
 wp nodomain_sites disable [--months=n]
 
 ## Parameters
-### months: limits listed or disabled sites to at least n months old. Default: 3
+months: limits listed or disabled sites to at least n months old. Default: 3
 
 
 ## Changelog
